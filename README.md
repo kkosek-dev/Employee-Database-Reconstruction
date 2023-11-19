@@ -1,4 +1,4 @@
-# sql-challenge 
+# Employee Database Reconstruction 
 This project is a part of the Module 9 challenge in the Vanderbilt University Data Analytics Bootcamp. All code is authored by the creator of this repo. This README template is from the Data Science Working Group.
 
 #### -- Project Status: [Completed]
